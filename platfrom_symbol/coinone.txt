@@ -1,0 +1,9 @@
+btc
+eth
+bch
+bsv
+trx
+xrp
+ltc
+eos
+etc

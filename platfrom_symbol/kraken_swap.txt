@@ -1,0 +1,5 @@
+pi_xbtusd
+pi_ethusd
+pi_ltcusd
+pi_bchusd
+pi_xrpusd

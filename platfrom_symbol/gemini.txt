@@ -1,0 +1,15 @@
+btcusd
+ethbtc
+ethusd
+bchusd
+bchbtc
+bcheth
+ltcusd
+ltcbtc
+ltceth
+ltcbch
+zecusd
+zecbtc
+zeceth
+zecbch
+zecltc
