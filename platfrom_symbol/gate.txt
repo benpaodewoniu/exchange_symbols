@@ -260,6 +260,7 @@ ankr_usdt
 rsr_usdt
 rsv_usdt
 kai_usdt
+ctsi_usdt
 comp_usdt
 ocean_usdt
 dot_usdt
@@ -321,6 +322,7 @@ beam_btc
 hbar_usdt
 okb_usdt
 vtho_eth
+vtho_usdt
 btt_usdt
 btt_eth
 btt_trx
