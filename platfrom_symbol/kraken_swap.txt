@@ -3,11 +3,6 @@ pi_ethusd
 pi_ltcusd
 pi_bchusd
 pi_xrpusd
-fi_xbtusd_200925
-fi_bchusd_200925
-fi_xrpusd_200925
-fi_ltcusd_200925
-fi_ethusd_200925
 fi_xbtusd_201225
 fi_ethusd_201225
 fi_xrpusd_201225
@@ -15,3 +10,8 @@ fi_bchusd_201225
 fi_ltcusd_201225
 fi_ethusd_210326
 fi_xbtusd_210326
+fi_xbtusd_201030
+fi_bchusd_201030
+fi_xrpusd_201030
+fi_ltcusd_201030
+fi_ethusd_201030
