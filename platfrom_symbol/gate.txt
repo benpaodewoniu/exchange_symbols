@@ -539,6 +539,10 @@ btc3l_usdt
 btc3s_usdt
 btc5l_usdt
 btc5s_usdt
+bch5l_usdt
+bch5s_usdt
+bsv5l_usdt
+bsv5s_usdt
 eth5l_usdt
 eth5s_usdt
 link3l_usdt
