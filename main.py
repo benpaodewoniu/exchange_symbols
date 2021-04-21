@@ -2,11 +2,12 @@ import glob
 
 txts = glob.glob(r"./platfrom_symbol/*.txt")
 
-symbol_pair = ['KRW', 'JPY', 'BTC', 'EUR', 'USD', 'USDT', 'PERP']
+symbol_pair = ['KRW', 'JPY', 'BTC', 'EUR', 'USD', 'USDT', 'PERP', 'CQ', 'NW', 'NQ', 'CW', 'NNQ', 'CM', 'NM', "USTF0",
+               "BTCF0", 'XBT']
 
 
 def p(coin):
-    print(coin + "={")
+    print(coin.upper() + "={")
 
     for t in txts:
         exchange = t.split('/')[2].split('.')[0].upper()
@@ -33,7 +34,7 @@ def p(coin):
 
 if __name__ == '__main__':
     coins = [
-        'OKB'
+        "bch"
     ]
     for coin in coins:
         p(coin)

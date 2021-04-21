@@ -3,15 +3,3 @@ pi_ethusd
 pi_ltcusd
 pi_bchusd
 pi_xrpusd
-fi_ethusd_210326
-fi_xbtusd_210326
-fi_xbtusd_210625
-fi_bchusd_210326
-fi_xrpusd_210326
-fi_ltcusd_210326
-fi_ethusd_210625
-fi_xbtusd_210129
-fi_ethusd_210129
-fi_xrpusd_210129
-fi_bchusd_210129
-fi_ltcusd_210129

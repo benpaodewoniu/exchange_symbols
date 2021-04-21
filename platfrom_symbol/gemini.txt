@@ -2,10 +2,12 @@ btcusd
 btcdai
 btcgbp
 btceur
+btcsgd
 ethbtc
 ethusd
 ethgbp
 etheur
+ethsgd
 ethdai
 bchusd
 bchbtc
@@ -46,3 +48,10 @@ balusd
 crvusd
 renusd
 uniusd
+enjusd
+bntusd
+1inchusd
+sklusd
+grtusd
+lrcusd
+sandusd
