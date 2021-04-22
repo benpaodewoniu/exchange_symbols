@@ -33,6 +33,53 @@ def p(coin):
 
 
 if __name__ == '__main__':
+
+    # coins = [
+    #     'CRV',
+    #     'DEFI',
+    #     'DOGE',
+    #     'EGLD',
+    #     'ENJ',
+    #     'ETC',
+    #     'FLM',
+    #     'GRT',
+    #     'ICX',
+    #     'IOST',
+    #     'IOTA',
+    #     'KAVA',
+    #     'KNC',
+    #     'KSM',
+    #     'LRC',
+    #     'MKR',
+    #     'NEO',
+    #     'OCEAN',
+    #     'OMG',
+    #     'ONT',
+    #     'QTUM',
+    #     'REN',
+    #     'RLC',
+    #     'RSR',
+    #     'SOL',
+    #     'SRM',
+    #     'STORJ',
+    #     'SUSHI',
+    #     'SXP',
+    #     'THETA',
+    #     'TOMO',
+    #     'TRB',
+    #     'TRX',
+    #     'VET',
+    #     'WAVES',
+    #     'XLM',
+    #     'XMR',
+    #     'XRP',
+    #     'XTZ',
+    #     'ZEC',
+    #     'ZEN',
+    #     'ZIL',
+    #     'ZRX',
+    #     'OKB'
+    # ]
     coins = [
         "bch"
     ]
